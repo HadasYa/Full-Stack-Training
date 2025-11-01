@@ -1,3 +1,17 @@
 body {
     direction: rtl;
+    background-color: peachpuff
+}
+
+footer {
+    margin-top: 10vh;
+}
+
+h1,
+h3 {
+    color: blue;
+}
+
+footer>span {
+    text-align: left;
 }
